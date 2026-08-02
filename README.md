@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
 |  |
