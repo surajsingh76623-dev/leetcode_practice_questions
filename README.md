@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0509-fibonacci-number) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0202-happy-number) |
 | [1512-number-of-good-pairs](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0412-fizz-buzz) |
 | [2169-count-operations-to-obtain-zero](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/2169-count-operations-to-obtain-zero) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
