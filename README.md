@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0027-remove-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0027-remove-element) |
 | [0202-happy-number](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0202-happy-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0977-squares-of-a-sorted-array) |
