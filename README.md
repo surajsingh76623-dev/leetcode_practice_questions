@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0412-fizz-buzz) |
