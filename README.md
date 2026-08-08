@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0035-search-insert-position) |
 | [0977-squares-of-a-sorted-array](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0011-container-with-most-water) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
