@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2469-convert-the-temperature](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3875-construct-uniform-parity-array-i](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/1929-concatenation-of-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
