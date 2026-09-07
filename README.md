@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0643-maximum-average-subarray-i](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -120,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0053-maximum-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
