@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0053-maximum-subarray) |
+| [0128-longest-consecutive-sequence](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0268-missing-number) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0643-maximum-average-subarray-i) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
