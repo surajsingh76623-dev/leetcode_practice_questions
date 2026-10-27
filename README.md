@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/1512-number-of-good-pairs) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0412-fizz-buzz) |
 ## Simulation
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
