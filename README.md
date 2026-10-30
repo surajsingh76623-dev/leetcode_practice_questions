@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0268-missing-number) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0128-longest-consecutive-sequence) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
