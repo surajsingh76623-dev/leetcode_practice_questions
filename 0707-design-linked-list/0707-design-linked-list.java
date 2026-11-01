@@ -1,121 +1,92 @@
-
 class MyLinkedList {
-
-    static class Node {
+    class Node{
         int data;
         Node next;
 
-        Node(int data) {
-            this.data = data;
-            this.next = null;
+        Node(int data){
+            this.data=data;
+            this.next=null;
         }
+   
     }
-
-    Node head;
+     Node head;
     int size;
 
-    // Constructor
+
     public MyLinkedList() {
-        head = null;
-        size = 0;
+        head=null;
+        size=0;
+        
     }
-
-    // Get value at given index
+    
     public int get(int index) {
-
-        if (index < 0 || index >= size) {
+        if(index<0||index>=size){
             return -1;
         }
 
-        Node current = head;
-
-        for (int i = 0; i < index; i++) {
-            current = current.next;
+        Node temp=head;
+        for(int i=0;i<index;i++){
+            temp=temp.next;
         }
 
-        return current.data;
+        return temp.data;
     }
-
-    // Insert at beginning
+    
     public void addAtHead(int val) {
-
-        Node newNode = new Node(val);
-
-        newNode.next = head;
-        head = newNode;
-
+        Node newNode=new Node(val);
+        newNode.next=head;
+        head=newNode;
         size++;
     }
-
-    // Insert at end
+    
     public void addAtTail(int val) {
-
-        Node newNode = new Node(val);
-
-        if (head == null) {
-            head = newNode;
+        Node newNode=new Node(val);
+        if(head==null){
+            head=newNode;
             size++;
             return;
         }
-
-        Node current = head;
-
-        while (current.next != null) {
-            current = current.next;
+        Node temp=head;
+        while(temp.next!=null){
+            temp=temp.next;
         }
-
-        current.next = newNode;
-
+        temp.next=newNode;
         size++;
     }
-
-    // Insert at specific index
+    
     public void addAtIndex(int index, int val) {
-
-        if (index < 0 || index > size) {
-            return;
+        Node newNode=new Node(val);
+        if(index<0||index>size){
+            return ;
         }
-
-        if (index == 0) {
+        if(index==0){
             addAtHead(val);
             return;
         }
-
-        Node current = head;
-
-        for (int i = 0; i < index - 1; i++) {
-            current = current.next;
+        Node temp=head;
+        for(int i=0;i<index-1;i++){
+            temp=temp.next;
         }
-
-        Node newNode = new Node(val);
-
-        newNode.next = current.next;
-        current.next = newNode;
+        newNode.next=temp.next;
+        temp.next=newNode;
 
         size++;
     }
-
-    // Delete at specific index
+    
     public void deleteAtIndex(int index) {
-
-        if (index < 0 || index >= size) {
+        if(index<0||index>=size){
             return;
         }
-
-        if (index == 0) {
-            head = head.next;
+        if(index==0){
+            head=head.next;
             size--;
             return;
         }
-
-        Node current = head;
-
-        for (int i = 0; i < index - 1; i++) {
-            current = current.next;
+        Node temp=head;
+        for(int i=0;i<index-1;i++){
+            temp=temp.next;
         }
-
-        current.next = current.next.next;
-
+        temp.next=temp.next.next;
         size--;
     }
 }
