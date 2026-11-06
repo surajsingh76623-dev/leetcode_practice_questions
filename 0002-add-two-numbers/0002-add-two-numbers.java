@@ -24,10 +24,10 @@ class Solution {
                 sum+=l2.val;
                 l2=l2.next;
             }
-            int digit=sum%10;
+           
              carry=sum/10;
 
-            ListNode newNode=new ListNode(digit);
+            ListNode newNode=new ListNode(sum%10);
 
             tail.next=newNode;
             tail=tail.next;
