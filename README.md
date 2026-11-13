@@ -200,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0014-longest-common-prefix) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
