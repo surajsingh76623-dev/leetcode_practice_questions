@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0344-reverse-string) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0540-single-element-in-a-sorted-array) |
