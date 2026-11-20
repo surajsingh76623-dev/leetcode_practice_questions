@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/1929-concatenation-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/2169-count-operations-to-obtain-zero) |
 ## Two Pointers
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0682-baseball-game) |
 ## Trie
 |  |
 | ------- |
