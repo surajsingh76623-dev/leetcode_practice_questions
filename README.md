@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0412-fizz-buzz) |
+| [2390-removing-stars-from-a-string](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/1929-concatenation-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/2169-count-operations-to-obtain-zero) |
+| [2390-removing-stars-from-a-string](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/2390-removing-stars-from-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0682-baseball-game) |
+| [2390-removing-stars-from-a-string](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/2390-removing-stars-from-a-string) |
 ## Trie
 |  |
 | ------- |
