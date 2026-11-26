@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0412-fizz-buzz) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0682-baseball-game) |
@@ -238,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0074-search-a-2d-matrix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/surajsingh76623-dev/leetcode_practice_questions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
